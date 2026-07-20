@@ -1,0 +1,7 @@
+||firmverup.brother.co.jp^$important
+||update.brother.co.jp^$important
+||35.165.36.100^$important
+||update-akamai.brother.co.jp^$important
+||support.brother.com^$important
+||download.brother.com^$important
+||api.givefreely.com^$important
